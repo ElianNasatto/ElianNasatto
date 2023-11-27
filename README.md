@@ -1,5 +1,12 @@
-### Hi there 👋
+### Elian Roberto Nasatto
 
+🚀 Bem-vindo ao meu espaço no GitHub! Sou um entusiasta da tecnologia, apaixonado por inovação e sempre em busca de desafios estimulantes. Atuo como profissional de desenvolvimento de software, com foco especial nas poderosas tecnologias do ecossistema ASP.NET da Microsoft.
+
+🎓 Estou sempre buscando aprimorando minhas habilidades e explorando as últimas tendências no mundo do desenvolvimento web e no universo ASP.NET, aproveitando cada oportunidade para mergulhar mais fundo em C#.
+
+💻 Aqui no GitHub, compartilho projetos, contribuições e aprendizados. Sinta-se à vontade para explorar meu trabalho e conectar-se! Estou aberto a colaborações, troca de ideias e, é claro, sempre ansioso para aprender mais.
+
+🌐 Vamos construir juntos o futuro da web! ✨
 <!--
 **ElianNasatto/ElianNasatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
